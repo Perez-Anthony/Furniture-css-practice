@@ -1,0 +1,59 @@
+body{
+  background-color: lightgrey;
+}
+
+h1{
+  font-size: 80px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: darkgreen;
+  background-color:aliceblue;
+
+}
+
+.change-font{
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.product-cards{
+ border: 5px solid aqua;
+ margin:120px;
+ background-color: white;
+ padding: 10px;
+ position: relative;
+ right:100px;
+}
+
+s{
+  color: red;
+}
+
+.sale{
+  color: green;
+  font-size: 50px;
+}
+.price{
+  color: red;
+  font-size: 20px
+}
+
+#browsing{
+  font-size: 20px;
+  margin:15px;
+  background-color: white;
+  border: 5px solid 
+  green
+}
+.cart{
+  background-color:white;
+  color: black;
+  padding:10px;
+  font-size:30px;
+  border-radius: 10px;
+  cursor:crosshair;
+  }
+  .cart:hover{
+    background-color: green;
+    color:white;
+  }
